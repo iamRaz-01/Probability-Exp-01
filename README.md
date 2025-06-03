@@ -1,7 +1,7 @@
 #  Ex-no 1: Mean and variance of a discrete  distribution
 
-### NAME: Mohamed Riyaz Ahamed
-### REG NO: 212224240092
+### NAME: Abdul Rasak N 
+### REG NO: 212224240001
 
 # Aim : 
 
